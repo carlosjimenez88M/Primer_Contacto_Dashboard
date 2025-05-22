@@ -1,0 +1,10 @@
+crawl4ai
+openpyxl
+pandas
+boto3
+pyyaml
+streamlit
+plotly
+seaborn
+openai==0.28
+python-dotenv
